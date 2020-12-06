@@ -1,0 +1,76 @@
+
+version:
+
+Angyular 6.
+java : 8  (latest is 13)
+Servlet 3.1  (latest is 4)
+spring 4   (latest is 5)
+spring mvc,
+jpa 2.1  (latest is 2.2)
+hibernate 4.1 used (latest is 5.3)
+Spring boot 2.1 latest
+log 4j  1.4 used (Latst is 2.0)
+Jackson core -- 1.5
+
+=================================================
+
+
+
+ Project Name: Smart Live Screener:
+ 
+
+ Technologies/Tools Used : 
+ 
+	1. Java 8,
+	2. Spring Mvc (Java Rest Services),
+	3. Spring JDBC,
+	3. Spring Transaction,
+	4. Spring JDBC Session,
+	5. Spring Core 
+	6. Angular 4, Bootstrap,
+	7. MySql.
+
+==================================================
+
+
+1: download files parsing and validating and inserting in to database:
+
+
+		txt format:
+		File format, 
+		Symbol ,date , high ,low ,open ,close, volume
+
+
+2: Process indicators:
+
+		EMA, 200,100,50,20. 
+		DMA 200.
+		All TIme High.
+		Narrow Range.
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
